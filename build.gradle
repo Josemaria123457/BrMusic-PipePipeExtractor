@@ -13,7 +13,7 @@ allprojects {
     }
 
     version 'v6.3.0'
-    group 'dev.maxrave'
+    group 'app.brmusic.extractor'
 
     repositories {
         mavenCentral()
